@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/558434788.svg)](https://zenodo.org/badge/latestdoi/558434788)
+
 # Hack The Planet Camera Trap extension module firmware
 This firmware runs on the extension board placed inside existing camera traps (Bushnells)
 
